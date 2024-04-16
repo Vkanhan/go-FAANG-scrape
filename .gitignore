@@ -1,0 +1,5 @@
+# Compiled Binary files
+*.exe
+
+# ignore the .csv file
+.csv
